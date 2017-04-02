@@ -1,2 +1,6 @@
 == README
-This is the repo for the first alpha-blog app of the Complete Ruby on Rails Developer Course - Udemy.
+*Alpha Blog*
+
+This is the repo for the first app of the Udemy Complete Ruby on Rails Developer Course.
+
+https://www.udemy.com/the-complete-ruby-on-rails-developer-course
