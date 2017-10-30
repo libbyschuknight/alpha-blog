@@ -8,10 +8,12 @@ class ArticlesController < ApplicationController
   end
 
   def new
-    @article = Article.new
+    # @article = Article.new
+    redirect_to create
   end
 
   def create
+    byebug
     @article = Article.new(article_params)
     @article.user = current_user
     if @article.save
